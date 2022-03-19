@@ -1,0 +1,168 @@
+html,body{
+    height: 100%;
+    width: 99%;
+  
+    background-image:
+    url('İmages/iphoneblue.png') ;
+    background-position: 50% 80%;
+    background-size: 150;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+*{
+    font-family: Berlin Sans
+    FB;
+}
+.nav-link{
+    color: rgb(0, 0, 0) !important;
+}
+
+/*.col-4 h6{
+    text-align: right;
+}
+*/
+.yazi{
+    padding-left: 90%;
+}
+
+.nav-link{
+    font-size: 1.3vw;
+}
+.content {
+    margin-top: -7vw;
+    margin-bottom: 35vw;
+}
+.baslik2{
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.23536;
+    font-weight: 600;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.baslik3{
+    margin-top: 0.58824rem;
+    font-size: 56px;
+    text-align: center;
+    font-weight:bold;
+    line-height: 1.1;
+    letter-spacing: 0;
+    font-weight: 600;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+
+}
+.baslik4{
+    font-size: 20px;
+    text-align: center;
+    line-height: 1.23536;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    margin-top: 1.94118rem;
+    margin-bottom: 0.94118rem;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.fiyat{
+    color: #86868b;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1.23536;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    margin-top: 1.23529rem;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.button1s {
+        
+        background-color: #0071e3;
+        color: #FFF;
+        border-radius: 30px;
+        text-decoration: none;
+        padding: 15px 25px;
+        margin-left: 48%;
+        margin-right: 50%;
+        font-size: 12.5px;
+        font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;      
+}
+.resimler{
+    background-color: black;
+    padding: 20%;
+    
+}
+p{
+    font-size: 12px;
+    text-align: center;
+}
+.parallax{
+    height: 30vw;
+    width: 97vw;
+    background-image:
+    url('İmages/yataytelefon.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    
+}
+input[type="text"]{
+    width: 25vw;
+
+}
+textarea{
+    width: 52vw;
+}
+.parallax2 {
+    height: 40vw;
+    background-image:
+    url('İmages/yataytelefon.png') ;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.parallax2 h2{
+    color: black;
+    padding-bottom: 5vh;
+}
+.parallax2 p{
+    color: black;
+    font-size: 1.3vw;
+}
+.btn1{
+    float: left;
+    background-color: transparent !important;
+    color: black !important;
+}
+.btn2{
+    float: right;
+    background-color: transparent !important;
+    color: black !important;
+}
+.cols {
+    position: relative;
+}
+.count{
+    position: absolute;
+    top: -10; bottom:110;left: 0;right: 0;
+    padding-top: 12vh;
+}
+.fotter{
+    background-image: url('İmages/33.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+.rights{
+    position: absolute;
+    bottom: 110;
+    color: white;
+}
